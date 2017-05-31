@@ -6,11 +6,11 @@
     tools:context="com.example.guowei.mygit.MainActivity">
 
     <Button
-        android:id="@+id/feature"
+        android:id="@+id/feature1"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_centerInParent="true"
-        android:onClick="feature"
-        android:text="分支功能"/>
+        android:onClick="feature1"
+        android:text="分支功能1"/>
 
 </RelativeLayout>
